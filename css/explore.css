@@ -4,5 +4,12 @@ body {
 
 p {
     font-size: 16pt;
-    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    font-family: 'Courier New', Courier, monospace;
+}
+
+a.continue {
+    border-style: solid;
+    border-color: rgba(3, 36, 36, 0.5);
+    padding: 10pt 20pt;
+    border-radius: 30pt;
 }
