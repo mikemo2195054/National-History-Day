@@ -11,5 +11,6 @@ a.continue {
     border-style: solid;
     border-color: rgba(3, 36, 36, 0.5);
     padding: 10pt 20pt;
+    margin: 15pt 25pt;
     border-radius: 30pt;
 }
