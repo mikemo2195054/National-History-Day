@@ -17,5 +17,7 @@ a.continue {
 }
 
 a.continue:hover { 
-    border-style: none none dashed none;f
+    border-style: none none solid none;
+    border-radius: 0;
+    transition-duration: 0.8s;
 }
